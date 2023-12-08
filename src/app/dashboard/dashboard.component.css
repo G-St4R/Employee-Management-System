@@ -1,0 +1,52 @@
+
+
+.container{
+    background-image: linear-gradient(to bottom, lightcyan , white);
+    visibility: 50%;
+
+}
+.modal-content
+{
+  background-image: linear-gradient(to bottom, lightcyan , whitesmoke);
+}
+h2{
+    color:black;
+}
+.navbar{
+    background-color: #01b7ea;
+}
+.black-border {
+  border: 1px solid black;
+}
+
+table {
+  width: 90%;
+}
+
+.name {
+  font-size: 2rem;
+  font-weight: 600;
+  font-style: italic;
+  letter-spacing: 3px;
+
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 10px;
+}
+.abcd
+{
+  border: double turquoise;
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  box-shadow: 5px 10px 20px grey;
+}
+.btn-outline-success{
+  width: 90px;
+  margin-bottom: 5px;
+}
+.btn-outline-danger{
+  width: 90px;
+  margin-bottom: 5px;
+}

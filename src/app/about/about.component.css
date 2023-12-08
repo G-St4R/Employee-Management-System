@@ -1,0 +1,20 @@
+
+
+
+.modal-content
+{
+  background-image: linear-gradient(to bottom, lightcyan , whitesmoke);
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+
+.navbar{
+    background-color: #01b7ea;
+}
+.col-md-4{
+    text-align: justify;
+    padding: 30px;
+    border: solid darkturquoise;
+}

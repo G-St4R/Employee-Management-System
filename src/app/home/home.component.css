@@ -1,0 +1,26 @@
+
+
+
+.container{
+    background-image: linear-gradient(to bottom, lightyellow, white);
+    
+
+}
+.modal-content
+{
+  background-image: linear-gradient(to bottom, lightcyan , whitesmoke);
+}
+img {
+  width: 100%;
+  border-radius: 1rem;
+}
+h2{
+    color:black;
+}
+.navbar{
+    background-color: #01b7ea;
+}
+h5{
+    text-align: justify;
+}
+
